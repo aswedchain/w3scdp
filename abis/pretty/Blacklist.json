@@ -1,0 +1,8 @@
+[
+    "constructor()",
+    "error BannedAddress(address)",
+    "function addBl(address[])",
+    "function allBl() view returns (address[])",
+    "function blacklist(address) view returns (bool)",
+    "function removeBl(address[])"
+]

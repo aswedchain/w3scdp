@@ -1,0 +1,8 @@
+[
+    "constructor()",
+    "function all() view returns (address[])",
+    "function get(uint256) view returns (address)",
+    "function length() view returns (uint256)",
+    "function push(address)",
+    "function remove(address)"
+]

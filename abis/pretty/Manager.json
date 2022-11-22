@@ -1,0 +1,9 @@
+[
+    "constructor()",
+    "error DelSelf()",
+    "error NotManager(address)",
+    "error ZeroAddress()",
+    "function addOp(address)",
+    "function allOps() view returns (address[])",
+    "function delOp(address)"
+]
